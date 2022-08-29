@@ -1,14 +1,14 @@
 ####################
-## The goal of this script is to generate 30 medium-sized units of Pão de Queijo (Brazilian cheese balls/breads).
+## The goal of this script is to generate 30 medium-sized units of Pão de Queijo (Brazilian cheese "balls" or "breads").
 ## By Ivan Prates, Ph.D. (ivanprates.org). Modified from script by Dr. Manuela Dal Forno.
 ## Smithsonian National Museum of Natural History, Washington DC, USA. 
 ## September 2019.
 
-ingredients {
+## Ingredients:
 
-500 grams of polvilho, 
+500 grams of polvilho
 
-## Polvilho is one of the many products from cassava ("mandioca"), often translated as tapioca starch or manioc starch. 
+## Some notes on polvilho: Polvilho is one of the many products from cassava ("mandioca"), often translated as tapioca starch or manioc starch. 
 
 ## Bob's Red Mill sells good tapioca starch: https://www.bobsredmill.com/tapioca-flour.html
 ## While in DC, I always found it in Whole Foods. In Texas, I found it regularly in HEB. For some reason the price at grocery stores is as low as one-third of that advertised in Bob's Red Mill's website.
@@ -29,45 +29,43 @@ ingredients {
 
 140 grams of shredded Parmesan cheese, ## Would probably work with grated Parmesan as well.
 
-2 eggs,
+2 eggs
 
-1 spoon of salt. ## Careful here - see notes below.
+1 spoon of salt ## Careful here - see notes below.
 
-} ## End of ingredients.
+## End of ingredients.
 
 ## I've used farmer's cheese instead of Mexican queso fresco, but if you use that you may want to add more salt to the batter. Queso fresco is very salty, so be careful. It's always a good idea to taste the batter before adding more salt.
  
-preparation {
+## Preparation:
 
 Boil the oil and the milk together in a pot on low fire, ## Mix with a spoon every now and then as you go. It will take only a minute to boil, so keep an eye.
 
 Add the polvilho (flour) to a large bow and pour the oil + milk on top, ## Mix well as you pour.
 
-Add the eggs to the batter, ## Mix well as you pour.
+Add the eggs to the batter. ## Mix well as you pour.
 
-Crumble the queso fresco with your hands before adding to the batter,
+Crumble the queso fresco with your hands before adding to the batter.
 
-Add the cheese (both types) to the batter, ## Mix well.
+Add the cheese (both types) to the batter. ## Mix well.
 
 ## At this point, you may feel like the mix is a bit dry, but it's hardly necessary to add more liquid.
 
 ## You may want to cool down the batter in the freezer for a bit. It will make the batter firmer and easier to make balls.
 
-If needed, pour a drop of oil on your hands (to avoid sticking) and start making balls,
+If needed, pour a drop of oil on your hands (to avoid sticking -- not always needed) and start making balls.
 
 ## You can make the balls the size you want. I like medium-sized (diameter of about 1 inch). This script should make about 30 medium cheese balls depending on your system configurations. I have tried making smaller balls but they usually get a bit dry and hard when baked.
 
-Spread some butter on a tray and place the balls on the tray, ## Butter not needed if you have one of those anti-sticking baking layers.
+Spread some butter on a tray and place the balls on the tray. ## Butter not needed if you have one of those anti-sticking baking layers.
 
-Bake at 400 F for 15-20 min, ## May need 25 min if the balls are closer to each other and depending on system specifications.
+Bake at 400 F for 15-20 min. ## May need 25 min if the balls are closer to each other and depending on system specifications.
 
 Once ready, try to wait until it cools down a bit so you can actually enjoy the flavor. ## This step may be harder than you think.
 
 ## Important: You may have to add more tapioca starch or salt depending on the cheese. It takes a couple tries to get the right amounts of each ingredients for perfect consistency. However, PdQ is usually delicious regardless.
 
-} ## End of preparation.
-
-## Done.
+## End of preparation.
 
 ## Enjoy and let me know if you have questions!
-## Ivan.
+## Ivan (ivanprates.org)
